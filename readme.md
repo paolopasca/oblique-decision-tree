@@ -66,7 +66,7 @@ Open `tree.ipynb` and run all cells. The notebook is self-contained and organize
 
 ## Theoretical Highlights
 
-The accompanying [report](Oblique_Tree.pdf) covers:
+The accompanying [report](docs/Oblique_Tree.pdf) covers:
 
 - **NP-completeness** of optimal tree induction and the necessity of greedy heuristics
 - **Analytical link** between Gini impurity and Shannon entropy via Taylor expansion
